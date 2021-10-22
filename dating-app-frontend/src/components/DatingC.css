@@ -1,0 +1,14 @@
+.datingC__container{
+    display: flex;
+    margin-top: 10vh;
+    flex-direction: column;
+    gap:10px;
+    justify-content: center;
+}
+.card{
+    position: relative;
+}
+.swipe2{
+    /* position: absolute; */
+    padding:1rem 13rem;
+   }
